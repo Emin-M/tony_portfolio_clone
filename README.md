@@ -1,1 +1,2 @@
-# tony_portfolio_clone
+# Tony Portfolio Clone
+Proyekt with SCSS (SASS)
