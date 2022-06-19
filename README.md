@@ -1,2 +1,2 @@
 # Tony Portfolio Clone
-Proyekt with SCSS (SASS)
+Project with SCSS (SASS)
